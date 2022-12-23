@@ -1,5 +1,9 @@
 Note:
-## This version of DigitalFIRE offers a wiki style format of this educational tool. 
+## This version of DigitalFIRE offers a wiki style format of this educational tool. There are also the following two formats that you can use. They are all synchronized and identidal:
+
+1. DigitalFIRE - Web Style/Format: https://asiamina.github.io/DigitalFIRE-WebStyle/
+DigitalFIRE - Local Drupal-based Style/Format: https://github.com/asiamina/DigitalFIRE-LocalStyle 
+
 
 ## Update 
 (August 2022) The module on Capture-the-Flag (CTF) Challenges on Android Forensics is created and added to the tool 
