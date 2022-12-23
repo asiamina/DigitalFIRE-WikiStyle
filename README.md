@@ -2,7 +2,8 @@ Note:
 ## This version of DigitalFIRE offers a wiki style format of this educational tool. There are also the following two formats that you can use. They are all synchronized and identidal:
 
 1. DigitalFIRE - Web Style/Format: https://asiamina.github.io/DigitalFIRE-WebStyle/
-DigitalFIRE - Local Drupal-based Style/Format: https://github.com/asiamina/DigitalFIRE-LocalStyle 
+
+2. DigitalFIRE - Local Drupal-based Style/Format: https://github.com/asiamina/DigitalFIRE-LocalStyle 
 
 
 ## Update 
